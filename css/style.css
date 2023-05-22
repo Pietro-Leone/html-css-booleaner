@@ -33,17 +33,22 @@ main{
     font-size: small;
     margin-bottom: 20px;
 }
+.highlights{
+    background-color: yellow;
+}
 .list{
     margin-top: 20px;
 }
 table{
     margin-top: 20px;
     margin-bottom: 20px;
+    border-spacing: 0;
 }
 .col-1-2{
     width: 25%;
 }
 thead{
+    text-align: left;
     background-color: rgba(78, 160, 255, 1);
     color: white;
 }
@@ -52,4 +57,20 @@ thead{
 }
 h3{
     margin-top: 20px;
+}
+.img1{
+    width: 312px;
+    height: 208px;
+    background-image: url(../imgs/monitor.jpg);
+}
+.img2{
+    width: 312px;
+    height: 208px;
+    background-image: url(../imgs/graph.jpg);
+}
+.pic{
+    margin-top: 10px;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
 }
