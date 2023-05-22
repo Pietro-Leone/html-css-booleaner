@@ -38,7 +38,9 @@ main{
     background-color: yellow;
 }
 .list{
+    list-style-position: inside;
     margin-top: 20px;
+    padding-left: 0;
 }
 table{
     margin-top: 20px;
