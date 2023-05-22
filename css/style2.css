@@ -1,0 +1,77 @@
+*{
+    margin: 0;
+}
+header{
+    height: 100px;
+    background-color: rgba(78, 160, 255, 1);
+    background-image: url(../imgs/pattern.png);
+    background-size: 400px;
+}
+.logo{
+    margin-top: 40px;
+    margin-left: 10px;
+    height: 50px;
+}
+main{
+    width: 90%;
+    margin: auto;
+}
+.title-credits{
+    color: grey;
+    font-size: small;
+    font-weight: bold;
+}
+.the-booleaner{
+    color: rgb(40, 172, 229);
+}
+.title-date{
+    font-size: smaller;
+}
+.pictures{
+    margin-top: 20px;
+}
+.pictures-description{
+    font-size: small;
+    margin-bottom: 20px;
+}
+.highlights{
+    background-color: yellow;
+}
+.list{
+    margin-top: 20px;
+}
+table{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-spacing: 0;
+}
+.col-1-2{
+    width: 25%;
+}
+thead{
+    text-align: left;
+    background-color: rgba(78, 160, 255, 1);
+    color: white;
+}
+.row-1-3{
+    background-color: rgb(177, 229, 242);
+}
+h3{
+    margin-top: 20px;
+}
+.img1{
+    width: 312px;
+    height: 208px;
+    background-image: url(../imgs/monitor.jpg);
+}
+.img2{
+    width: 312px;
+    height: 208px;
+    background-image: url(../imgs/graph.jpg);
+}
+.pic{
+    margin-top: 10px;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+}
