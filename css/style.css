@@ -12,3 +12,17 @@ header{
     margin-left: 10px;
     height: 50px;
 }
+main{
+    margin: 8px;
+}
+.title-credits{
+    color: grey;
+    font-size: small;
+    font-weight: bold;
+}
+.the-booleaner{
+    color: rgb(40, 172, 229);
+}
+.title-date{
+    font-size: smaller;
+}
