@@ -26,3 +26,9 @@ main{
 .title-date{
     font-size: smaller;
 }
+.pictures{
+    margin-top: 20px;
+}
+.pictures-description{
+    font-size: small;
+}
